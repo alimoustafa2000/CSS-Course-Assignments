@@ -13,7 +13,7 @@ This repo is for Assignments of "CSS" Course From Elzero Academy.
 <br>
 
 ## Assignments List
-- [x] [Elements And Naming]
+- [x] [Elements And Naming] (https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/01-%20Elements%20And%20Naming)
 - [ ] [Background, Margin, and Padding]
 - [ ] [Border, Outline, and Display]
 - [ ] [Nesting, Dimensions, and Overflow]
