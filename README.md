@@ -9,12 +9,12 @@ This repo is for Assignments of "CSS" Course From Elzero Academy.
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-76 Assignments-blue">
 
-![5%](https://progress-bar.dev/5/?title=Done)
+![10%](https://progress-bar.dev/10/?title=Done)
 <br>
 
 ## Assignments List
 - [x] [Elements And Naming](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/01-%20Elements%20And%20Naming)
-- [ ] [Background, Margin, and Padding]
+- [x] [Background, Margin, and Padding](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/02-%20Background%2C%20Margin%2C%20and%20Padding)
 - [ ] [Border, Outline, and Display]
 - [ ] [Nesting, Dimensions, and Overflow]
 - [ ] [Text Formatting]
