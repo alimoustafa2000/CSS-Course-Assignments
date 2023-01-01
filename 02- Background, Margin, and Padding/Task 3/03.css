@@ -1,0 +1,38 @@
+.assign-3-shape-1{
+    width: 400px;
+    height: 400px;
+    color: #ffffff;
+    padding: 20px;
+    background-image: url(imgs/css-assignment-2.3.png);
+    background-repeat: no-repeat;
+}
+
+.assign-3-shape-2{
+    width: 400px;
+    height: 400px;
+    color: #000000;
+    padding: 20px;
+    background-image: url(imgs/css-assignment-2.3.png);
+    background-repeat: repeat-y;
+    background-position: 100%;
+}
+
+.assign-3-shape-3{
+    width: 400px;
+    height: 400px;
+    color: #000000;
+    padding: 20px;
+    margin-bottom: 5%;
+    background-image: url(imgs/css-assignment-2.3.png);
+    background-repeat: repeat-x;
+    background-position: 0 100%;
+}
+
+.assign-3-shape-4{
+    width: 400px;
+    height: 400px;
+    color: #ffffff;
+    padding: 20px;
+    background-image: url(imgs/css-assignment-2.3.png);
+    background-repeat: repeat;
+}
