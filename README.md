@@ -1,5 +1,5 @@
 # CSS-Course-Assignments
-This repo is for Assignments of "CSS" Course From Elzero Academy.
+This repo is for Assignments Solutions of "CSS" Course From Elzero Academy.
 
 ---
 
