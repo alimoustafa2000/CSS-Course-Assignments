@@ -1,0 +1,10 @@
+div{
+    color: aliceblue;
+    background-color: brown;
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    max-width: 400px;
+    max-height: 25px;
+    overflow: hidden;
+}
