@@ -1,0 +1,13 @@
+a {
+    background-color: rgb(21, 143, 116);
+    color: aliceblue;
+    padding: 3px 8px;
+    border-bottom: 3px rgb(8, 75, 60) solid;
+    font-family: calibri;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: capitalize;
+    position: absolute;           /* position the anchor element absolutely */
+    left: 50%;                   /* set the left position to 50% */
+    transform: translate(-50%); /* move the element to the left by 50% of its own width */
+}

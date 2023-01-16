@@ -1,0 +1,16 @@
+p {
+    text-align: center;
+    font-family: Calibri;
+}
+
+.one {
+    text-transform: uppercase;
+}
+
+.two {
+    text-transform: capitalize;
+}
+
+.three {
+    text-transform: lowercase;
+}

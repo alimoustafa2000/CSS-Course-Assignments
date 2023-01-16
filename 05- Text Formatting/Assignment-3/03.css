@@ -1,0 +1,13 @@
+div {
+    background-color: #dadada;
+    width: 400px;
+    padding: 13px;
+    font-family: calibri;
+    margin: 20px;
+}
+
+.three {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
