@@ -1,0 +1,15 @@
+div {
+    padding: 20px;
+    border: 5px solid orange
+}
+
+div p {
+    background-color: rgb(199, 199, 199);
+    font-size: 20px;
+    font-family: Calibri;
+    font-weight: bold;
+    text-align: center;
+    padding: inherit;
+    border: inherit;
+    margin: 0%;
+}

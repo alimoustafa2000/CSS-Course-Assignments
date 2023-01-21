@@ -1,0 +1,19 @@
+p {
+    text-align: center;
+}
+
+.one {
+    font-family: Open Sans;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.two {
+    font-family: cairo;
+    font-weight: 700;
+}
+
+.three {
+    font-family: Jomhuria;
+    font-weight: 400;
+}
