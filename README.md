@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-76 Assignments-blue">
 
-![25%](https://progress-bar.dev/25/?title=Completed)
+![30%](https://progress-bar.dev/30/?title=Completed)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -24,7 +24,7 @@
 - [x] [Border, Outline, and Display](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/03-%20Border%2C%20Outline%2C%20and%20Display)
 - [x] [Nesting, Dimensions, and Overflow](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/04-%20Nesting%2C%20Dimensions%2C%20and%20Overflow)
 - [x] [Text Formatting](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/05-%20Text%20Formatting)
-- [ ] [Inheritance and Typography]
+- [x] [Inheritance and Typography](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/06-%20Inheritance%20and%20Typography)
 - [ ] [Float and Opacity]
 - [ ] [Position, List, and Table]
 - [ ] [Pseudo Classes and Pseudo Elements]
