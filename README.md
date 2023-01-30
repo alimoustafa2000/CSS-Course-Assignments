@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-76 Assignments-blue">
 
-![35%](https://progress-bar.dev/35/?title=Completed)
+![40%](https://progress-bar.dev/40/?title=Completed)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,7 +26,7 @@
 - [x] [Text Formatting](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/05-%20Text%20Formatting)
 - [x] [Inheritance and Typography](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/06-%20Inheritance%20and%20Typography)
 - [x] [Float and Opacity](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/07-%20Float%20and%20Opacity)
-- [ ] [Position, List, and Table]
+- [x] [Position, List, and Table](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/08-%20Position%2C%20List%2C%20and%20Table)
 - [ ] [Pseudo Classes and Pseudo Elements]
 - [ ] [Border Radius and Box Shadow]
 - [ ] [Transitions and Variables]
