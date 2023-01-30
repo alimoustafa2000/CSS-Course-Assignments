@@ -1,0 +1,48 @@
+div {
+    width: 400px;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(209, 209, 209);
+    border-top: 3px solid rgb(236, 80, 80);
+    border-bottom: 3px solid rgb(236, 80, 80);
+    border-right: 3px solid rgb(71, 127, 231);
+    border-left: 3px solid rgb(71, 127, 231);
+    position: relative;
+    top: 20px;
+}
+
+span {
+    display: block;
+    height: 20px;
+    width: 30px;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(71, 127, 231);
+    position: absolute;
+}
+
+.top-left {
+    top: -10px;
+    left: -15px;
+    border-right: 2px solid rgb(236, 80, 80);
+}
+
+.bottom-left {
+    top: 95px;
+    left: -15px;
+    border-right: 2px solid rgb(236, 80, 80);
+}
+
+.top-right {
+    top: -10px;
+    left: 415px;
+    border-left: 2px solid rgb(236, 80, 80);
+}
+
+.bottom-right {
+    top: 95px;
+    left: 415px;
+    border-left: 2px solid rgb(236, 80, 80);
+}

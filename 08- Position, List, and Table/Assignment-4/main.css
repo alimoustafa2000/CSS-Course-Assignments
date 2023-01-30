@@ -1,0 +1,41 @@
+body{
+    font-family:sans-serif;
+}
+
+table {
+    width: 700px;
+    margin: auto;
+    border-spacing: 2px;
+}
+
+caption{
+    font-weight: bold;
+    margin: 20px;
+}
+
+th {
+    background-color: rgb(87, 87, 87);
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+}
+
+td{
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    padding: 10px;
+}
+
+span {
+    padding: 5px 10px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.v {
+    background-color: rgb(77, 163, 243);
+}
+
+.d {
+    background-color: rgb(228, 55, 55);
+}
