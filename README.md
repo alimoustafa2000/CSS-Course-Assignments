@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-76 Assignments-blue">
 
-![40%](https://progress-bar.dev/40/?title=Completed)
+![45%](https://progress-bar.dev/45/?title=Completed)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,7 +27,7 @@
 - [x] [Inheritance and Typography](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/06-%20Inheritance%20and%20Typography)
 - [x] [Float and Opacity](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/07-%20Float%20and%20Opacity)
 - [x] [Position, List, and Table](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/08-%20Position%2C%20List%2C%20and%20Table)
-- [ ] [Pseudo Classes and Pseudo Elements]
+- [x] [Pseudo Classes and Pseudo Elements](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/09-%20Pseudo%20Classes%20and%20Pseudo%20Elements)
 - [ ] [Border Radius and Box Shadow]
 - [ ] [Transitions and Variables]
 - [ ] [Flex Box]
