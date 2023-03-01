@@ -1,0 +1,14 @@
+div {
+    background-color: #EEE;
+    height: 100px;
+    width: 100px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 6px 15px;
+    border-bottom-right-radius: 8px 22px;
+    border-bottom-left-radius: 50px;
+    box-shadow: 1px 1px 10px -1px inset;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

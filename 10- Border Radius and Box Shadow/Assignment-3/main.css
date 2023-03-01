@@ -1,0 +1,112 @@
+.parent {
+    width: 550px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.basic,
+.pro {
+    width: 250px;
+    height: 300px;
+    background-color: #EEE;
+    margin: 12px;
+    float: left;
+    box-sizing: border-box;
+    position: relative;
+}
+
+p {
+    position: absolute;
+    top: 160px;
+    left: 100px;
+    z-index: 3;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.pr {
+    left: 106px;
+}
+
+.line {
+    float: left;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.or::before {
+    content: "";
+    background-color: rgb(30, 163, 252);
+    width: 1.5px;
+    height: 299px;
+    position: absolute;
+    top: -165px;
+    left: -101px;
+}
+
+.or::after {
+    content: "or";
+    background-color: rgb(30, 163, 252);
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    color: white;
+    font-size: small;
+    position: absolute;
+    top: -25px;
+    left: -110px;
+}
+
+.basic::before {
+    content: "Basic";
+    background-color: rgb(30, 163, 252);
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    left: 23px;
+    top: 22px;
+}
+
+.basic::after {
+    content: "";
+    background-color: rgb(224, 224, 224);
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    position: absolute;
+    left: 31px;
+    top: 100px;
+}
+
+.pro::before {
+    content: "pro";
+    background-color: rgb(30, 163, 252);
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    left: 23px;
+    top: 22px;
+}
+
+.pro::after {
+    content: "";
+    background-color: rgb(224, 224, 224);
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    position: absolute;
+    left: 31px;
+    top: 100px;
+}
