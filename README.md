@@ -30,7 +30,7 @@
 - [x] [Pseudo Classes and Pseudo Elements](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/09-%20Pseudo%20Classes%20and%20Pseudo%20Elements)
 - [x] [Border Radius and Box Shadow](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/10-%20Border%20Radius%20and%20Box%20Shadow)
 - [x] [Transitions and Variables](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/11-%20Transitions%20and%20Variables)
-- [ ] [Flex Box]
+- [x] [Flex Box](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/12-%20Flex%20Box)
 - [ ] [Filters and Gradient]
 - [ ] [Grid]
 - [ ] [Scale, Rotate, and Translate]
