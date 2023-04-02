@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-76 Assignments-blue">
 
-![60%](https://progress-bar.dev/60/?title=Completed)
+![65%](https://progress-bar.dev/65/?title=Completed)
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -31,7 +31,7 @@
 - [x] [Border Radius and Box Shadow](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/10-%20Border%20Radius%20and%20Box%20Shadow)
 - [x] [Transitions and Variables](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/11-%20Transitions%20and%20Variables)
 - [x] [Flex Box](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/12-%20Flex%20Box)
-- [ ] [Filters and Gradient]
+- [x] [Filters and Gradient](https://github.com/alimoustafa2000/CSS-Course-Assignments/tree/main/13-%20Filters%20and%20Gradient)
 - [ ] [Grid]
 - [ ] [Scale, Rotate, and Translate]
 - [ ] [Skew, Matrix, and 3D Transform]
