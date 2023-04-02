@@ -1,0 +1,36 @@
+div {
+    width: 600px;
+    height: 80px;
+    background-color: #eee;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 80px;
+    font-size: xx-large;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    position: relative;
+}
+
+div::first-letter {
+    color:#f44336;
+}
+
+div::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    width: 620px;
+    height: 100px;
+    background-image: linear-gradient(to right, 
+        #f44336 20%, 
+        #2196f3 20%,
+        #2196f3 40%, 
+        #4caf50 40%, 
+        #4caf50 60%, 
+        #e91e63 60%,
+        #e91e63 80%,
+        #673ab7 80%
+    );
+    z-index: -1;
+}

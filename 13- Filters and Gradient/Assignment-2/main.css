@@ -1,0 +1,27 @@
+input {
+    background-color: #eee;
+    border: none;
+    outline: none;
+}
+
+.input {
+    background-color: #eee;
+    width: 600px;
+    height: 20px;
+    margin: 10px auto;
+    padding: 15px;
+    border: none;
+    display: block;
+    position: relative;
+    caret-color: #f44336;
+}
+
+.input::after {
+    content: "";
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-image: linear-gradient(to right,#f44336 50%,#3f8d8d 50%);
+}
